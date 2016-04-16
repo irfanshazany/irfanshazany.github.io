@@ -1,0 +1,17 @@
+body{
+    font-family: "Lora"
+}
+.blue{
+    color:blue;
+}
+.container{
+    padding:5px;
+    background:blue;
+    margin:5px;
+    color:white;
+}
+
+#redcontainer{
+    background:red;
+    
+}
